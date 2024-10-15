@@ -2,6 +2,7 @@
 *Hey Day bonus script*
 
 ## History
+#### Link to more info
 https://sga.auburn.edu/hey-day/
 
 Hey day is a significant annual event at Auburn University.
