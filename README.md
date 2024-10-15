@@ -19,6 +19,4 @@ The script created simulates an experience one might have on Hey Day.
 - The user is then greeted in response.
 
 ### Code inspiration
-Inspiration for this code comes from notes 2.05 programmed interaction_full 
-
-*Adding flexibility to programs*.
+Inspiration for this code comes from notes 2.05 programmed interaction_full *Adding flexibility to programs*.
