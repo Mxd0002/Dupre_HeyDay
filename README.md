@@ -2,14 +2,15 @@
 *Hey Day bonus script*
 
 ## History
-#### Link to more info
-https://sga.auburn.edu/hey-day/
 
 Hey day is a significant annual event at Auburn University.
 
 This tradition was started in 1947 to encourage community and belonging.
 
 On a set date in the fall, students don name tags and greet each other saying **"Hey!"** 
+
+#### Link to more info
+https://sga.auburn.edu/hey-day/
 
 ## Script
 The script created simulates an experience one might have on Hey Day.
