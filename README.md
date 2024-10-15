@@ -14,7 +14,8 @@ https://sga.auburn.edu/hey-day/
 
 ## Script
 The script created simulates an experience one might have on Hey Day.
-- The user is promped to enter their name. This is similar to creating a name tag.
+- The user is promped to enter their name.
+ - This is similar to creating a name tag.
 - The user is then greeted in response.
 
 ### Code inspiration
